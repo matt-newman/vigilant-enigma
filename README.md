@@ -4,19 +4,21 @@ To facilitate our discussion during technical interview, we ask our candidates t
 
 Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account is needed for Inspect mode) 
 
+<img src="https://github.com/rooser-eu/frontend-engineer-challenge/blob/8633176dec6a97975b3f8c9a5f04e56967bc88f7/Design_Reference.png" alt="Reference design" title="Reference design">
+
 <ul>
   <li><a href="https://www.figma.com/file/HrRWXoG70Gy8W4c9moXuq2/Front-end-Challenge?type=design&node-id=0-1&mode=design&t=sECLSwzwlb09l54c-0" target="_blank">Figma design</a></li>
   <li>Static JSON list of Live Market activity is in this repository (<a href="">live_market.json</a>).</li>
   <li>Please share your solution with us in the form of a public Git repository.</li>
 </ul>
 
-Tasks
+<strong>Task</strong>
 <ul>
   <li>Fully implement the given UI on a level of functional detail you deem necessary. For your implementation use NextJS, Tailwind CSS, React Testing Library and any other frameworks or tools you see necessary.</li>
   <li>UI has to be performant - feel free to pick your approach on loading all the data like creating a light dummy API interface around it or something completely different.</li>
 </ul>
   
-Bonus
+<strong>Bonus</strong>
 <ul>
   <li>If you spot any UX issues on this page feel free to address them in your implementation and share your thoughts with us during our chat.</li>
 </ul>
