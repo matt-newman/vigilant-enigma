@@ -8,7 +8,14 @@ Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account
 
 <ul>
   <li><a href="https://www.figma.com/file/HrRWXoG70Gy8W4c9moXuq2/Front-end-Challenge?type=design&node-id=0-1&mode=design&t=sECLSwzwlb09l54c-0" target="_blank">Figma design</a></li>
-  <li>Static JSON files representing different sections of the Live Market activity are in this directory (<a href="https://github.com/rooser-eu/frontend-engineer-challenge/tree/main/data">data</a>).</li>
+  <li>
+      Static JSON files representing different sections of the Live Market activity are in this directory (<a href="https://github.com/rooser-eu/frontend-engineer-challenge/tree/main/data">data</a>).
+      <ul>
+        <li>Accepted Orders - </li>
+        <li>Live Demand - data/live_demand.json</li>
+        <li>Recent Activity - data/live_market.json</li>
+      </ul>
+  </li>
   <li>Please share your solution with us in the form of a public Git repository.</li>
 </ul>
 
