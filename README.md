@@ -16,6 +16,7 @@ Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account
 <ul>
   <li>Fully implement the given UI on a level of functional detail you deem necessary. For your implementation use NextJS, Tailwind CSS, React Testing Library and any other frameworks or tools you see necessary.</li>
   <li>UI has to be performant - feel free to pick your approach on loading all the data like creating a light dummy API interface around it or something completely different.</li>
+  <li>Make sure you have picked an appropriate testing strategy and your code is well tested.</li>
 </ul>
   
 <strong>Bonus</strong>
