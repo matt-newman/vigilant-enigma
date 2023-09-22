@@ -5,7 +5,7 @@ To facilitate our discussion during technical interview, we ask our candidates t
 Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account is needed for Inspect mode) 
 
 <ul>
-  <li><a href="https://www.figma.com/file/HrRWXoG70Gy8W4c9moXuq2/Front-end-Challenge?type=design&node-id=0-1&mode=design&t=sECLSwzwlb09l54c-0">Figma design</a></li>
+  <li><a href="https://www.figma.com/file/HrRWXoG70Gy8W4c9moXuq2/Front-end-Challenge?type=design&node-id=0-1&mode=design&t=sECLSwzwlb09l54c-0" target="_blank">Figma design</a></li>
   <li>Static JSON list of Live Market activity is in this repository (<a href="">live_market.json</a>).</li>
   <li>Please share your solution with us in the form of a public Git repository.</li>
 </ul>
