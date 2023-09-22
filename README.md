@@ -11,9 +11,9 @@ Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account
   <li>
       Static JSON files representing different sections of the Live Market activity are in this directory (<a href="https://github.com/rooser-eu/frontend-engineer-challenge/tree/main/data">data</a>).
       <ul>
-        <li>Accepted Orders - </li>
+        <li>Accepted Orders - data/accepted_orders.json</li>
         <li>Live Demand - data/live_demand.json</li>
-        <li>Recent Activity - data/live_market.json</li>
+        <li>Recent Activity - data/recent_activity.json</li>
       </ul>
   </li>
   <li>Please share your solution with us in the form of a public Git repository.</li>
@@ -24,6 +24,7 @@ Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account
   <li>Fully implement the given UI on a level of functional detail you deem necessary. For your implementation setup a monorepo and use NextJS, Tailwind CSS, React Testing Library and any other frameworks or tools you see necessary.</li>
   <li>UI has to be performant - feel free to pick your approach on loading all the data like creating a light dummy API interface around it or something completely different.</li>
   <li>Make sure you have picked an appropriate testing strategy and your code is well tested.</li>
+  <li>You can use any design system of your choice for this exercise. We are not expecting you to implement a pixel perfect match of the UI without having access to Rooser design system.</li>
 </ul>
   
 <strong>Bonus</strong>
