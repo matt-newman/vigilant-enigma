@@ -28,7 +28,7 @@ Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account
 <strong>Task</strong>
 <ul>
   <li>Fully implement the given UI on a level of functional detail you deem necessary. For your implementation setup a monorepo (preferably using nx) and use NextJS, Tailwind CSS, React Testing Library and any other frameworks or tools you see necessary.</li>
-  <li>UI has to be performant - feel free to pick your approach on loading all the data like creating a light dummy API interface around it or something completely different.</li>
+  <li>UI has to be performant - feel free to pick your approach on loading the data. You can use a light dummy API interface for it or something completely different.</li>
   <li>Make sure you have picked an appropriate testing strategy and your code is well tested.</li>
   <li>You can use any design system of your choice for this exercise. Attention to detail would be great to have, but a pixel perfect match of the UI with the designs is not expected.</li>
 </ul>
