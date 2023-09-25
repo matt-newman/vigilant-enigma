@@ -4,7 +4,7 @@ To facilitate our discussion during technical interview, we ask our candidates t
 
 Reference design is hosted in <a href="https://www.figma.com">Figma</a> (account is needed for Inspect mode) 
 
-<img src="https://github.com/rooser-eu/frontend-engineer-challenge/blob/8633176dec6a97975b3f8c9a5f04e56967bc88f7/Design_Reference.png" alt="Reference design" title="Reference design">
+<img src="https://github.com/rooser-eu/frontend-engineer-challenge/blob/main/Design_Reference.png" alt="Reference design" title="Reference design">
 
 <ul>
   <li><a href="https://www.figma.com/file/HrRWXoG70Gy8W4c9moXuq2/Front-end-Challenge?type=design&node-id=0-1&mode=design&t=sECLSwzwlb09l54c-0" target="_blank">Figma design</a></li>
