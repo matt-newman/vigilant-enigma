@@ -1,0 +1,14 @@
+{
+  "name": "frontend-engineer-challenge",
+  "version": "1.0.0",
+  "description": "To facilitate our discussion during technical interview, we ask our candidates to build the following small part of our Live Market list using static data provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Newman",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
