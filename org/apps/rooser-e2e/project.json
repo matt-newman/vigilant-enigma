@@ -1,0 +1,9 @@
+{
+  "name": "rooser-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/rooser-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["rooser"],
+  "// targets": "to see all targets run: nx show project rooser-e2e --web",
+  "targets": {}
+}
